@@ -2,7 +2,7 @@
 
 # To Do List
 
- <img src="C:\Users\User\Desktop\WEB-DEV\portfolio_apps\todo_list\Todo_list\screenshot.png"  title="Todo list">
+ <img src=""  title="Todo list">
 
 ### *Features*:
 
