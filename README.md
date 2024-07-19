@@ -2,6 +2,8 @@
 
 # To Do List
 
+ <img src="screenshot.png"  title="Todo list">
+
 ### *Features*:
 
 * User-friendly
